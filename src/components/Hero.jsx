@@ -1,7 +1,7 @@
 import React from 'react';
 import { Github, Linkedin, Mail, Download } from 'lucide-react';
 import profileImg from '../assets/profile_image.jpg';      // Your image
-import resumePDF from "../assets/Resume-c.pdf";        // Your resume
+import resumePDF from "../assets/Resume-C.pdf";        // Your resume
 
 const Hero = ({ isDarkMode, scrollToSection }) => {
   return (
